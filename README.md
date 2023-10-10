@@ -32,9 +32,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/thgd86/thgd86/output/snake.svg" alt="Snake animation" />
-
-###
