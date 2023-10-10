@@ -1,7 +1,7 @@
-<h1 clickable="false">Olá seja bem-vindo ao meu perfil</h1>
-<h2 clickable="false">Sobre mim:</h2>
-<h3 clickable="false">Me chamo Thiago, sou do Brasileiro e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
-<h2 clickable="false">Ferramentas que uso:</h2>
+<h1>Olá seja bem-vindo ao meu perfil</h1>
+<p>Sobre mim:</p>
+<p>Me chamo Thiago, sou do Brasileiro e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</p>
+<h2>Experiências:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
