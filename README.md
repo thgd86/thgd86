@@ -1,25 +1,7 @@
 <h1 align="left">Bem vindo</h1>
-
-###
-
-<br clear="both">
-
 <h4 align="left">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h4>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Quem sou?</h2>
-
-###
-
-<br clear="both">
-
 <h4 align="left">Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h4>
-
-###
-
 <br clear="both">
 
 <h2 align="left">I code with</h2>
