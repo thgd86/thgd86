@@ -1,12 +1,26 @@
 <h1 align="left">Bem vindo</h1>
+
+###
+
+<br clear="both">
+
 <h4 align="left">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h4>
+
+###
+
+<br clear="both">
+
 <h2 align="left">Quem sou?</h2>
 
 ###
 
+<br clear="both">
+
 <h4 align="left">Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h4>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -40,10 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 </div>
 
 ###
