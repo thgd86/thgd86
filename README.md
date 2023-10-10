@@ -1,4 +1,4 @@
-<h1>Olá seja bem-vindo ao meu perfil</h1>
+<h1>Olá 👋 seja bem-vindo ao meu perfil</h1>
 <p>Me chamo Thiago, sou do Brasileiro e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</p>
 <h2>Experiências:</h2>
 <div align="center">
