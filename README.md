@@ -1,6 +1,6 @@
-<h1">Bem vindo!</h1>
+<h1>Bem vindo!</h1>
 <h3>Meu nome é Thiago e sou do Brasileiro</h3>
-<h2">Quem sou?</h2>
+<h2>Quem sou?</h2>
 <h3>Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
 <h2>Geralmente uso:</h2>
 <div align="center">
