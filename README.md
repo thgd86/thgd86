@@ -1,8 +1,7 @@
-<h1>Bem vindo!</h1>
-<h3>Meu nome é Thiago e sou do Brasileiro</h3>
+<h1>Bem vindo ao meu perfil</h1>
 <h2>Quem sou?</h2>
-<h3>Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
-<h2>Geralmente uso:</h2>
+<h3>Me chamo Thiago,sou do Brasileiro e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
+<h2>Ferramentas que uso:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
