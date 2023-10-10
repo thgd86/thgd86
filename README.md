@@ -1,6 +1,5 @@
 <h1 clickable="false">Olá seja bem-vindo ao meu perfil</h1>
 <h2 clickable="false">Quem sou?</h2>
-<h1 clickable="false">Welcome to Daniel's GitHub</h1>
 <h3 clickable="false">Me chamo Thiago, sou do Brasileiro e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
 <h2 clickable="false">Ferramentas que uso:</h2>
 <div align="center">
