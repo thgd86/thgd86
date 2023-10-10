@@ -1,4 +1,4 @@
-<h1 align="left">Bem vindo</h1>
+<h1 align="center">Bem vindo</h1>
 <h4 align="left">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h4>
 <h2 align="left">Quem sou?</h2>
 <h4 align="left">Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h4>
