@@ -1,11 +1,5 @@
 <h1 align="left">Bem vindo</h1>
-
-###
-
 <h4 align="left">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h4>
-
-###
-
 <h2 align="left">Quem sou?</h2>
 
 ###
