@@ -1,14 +1,24 @@
-<h1 align="center">Bem vindo</h1>
-<h4 align="left">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h4>
-<h2 align="left">Quem sou?</h2>
-<h4 align="left">Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h4>
-<br clear="both">
-
-<h2 align="left">I code with</h2>
+<h1 align="center">Bem vindo!</h1>
 
 ###
 
-<div align="left">
+<h3 align="center">Meu nome é Thiago e sou do Brasileiro 🇧🇷</h3>
+
+###
+
+<h2 align="center">Quem sou?</h2>
+
+###
+
+<h3 align="center">Apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento em seu tempo livre.</h3>
+
+###
+
+<h2 align="center">Geralmente uso:</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -36,6 +46,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="thiagod86" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="thiagodmec9@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
