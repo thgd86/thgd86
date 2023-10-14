@@ -1,5 +1,5 @@
 <h1>Olá 👋 seja bem-vindo ao meu perfil</h1>
-<p>Me chamo Thiago, sou do Brasi e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento no tempo livre.</p>
+<p>Me chamo Thiago, sou do Brasil e sou apenas um estudante de psicologia e entusiasta de tecnologia que adora explorar o desenvolvimento no tempo livre.</p>
 <h2>Conhecimentos:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
